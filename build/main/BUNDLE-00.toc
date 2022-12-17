@@ -1,0 +1,3 @@
+([('main',
+   '/Users/ozakisouta/Desktop/Python_Study_Record/Pysimplegui/dist/main',
+   'EXECUTABLE')],)
